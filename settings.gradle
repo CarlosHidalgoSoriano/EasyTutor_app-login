@@ -1,0 +1,2 @@
+rootProject.name='EzTutor_login'
+include ':app'
